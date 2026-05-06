@@ -1,5 +1,3 @@
-# Image-to-Speech-Generation_Encoder-Attention-Decoder
-Phát triển phầm mềm mô tả nội dụng hình ảnh bằng giọng nói
 # Image-to-Speech Converter for Visually Impaired Individuals
 
 ![image](https://github.com/GvHemanth/Image-to-Text-Generation_CNN-Attention-RNN/assets/125199925/07381d55-a523-45cb-a50a-20c65c7e2c67)
